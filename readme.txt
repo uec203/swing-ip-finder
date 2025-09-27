@@ -18,4 +18,5 @@ This project uses the Java Networking API to resolve domain names and retrieve t
 
 ##Screenshot
 - Here's a screenshot of the application in action:
-(https://github.com/uec203/swing-ip-finder/blob/main/images/demo.png?raw=true)
+
+![Image](https://github.com/uec203/swing-ip-finder/blob/main/images/demo.png?raw=true)
