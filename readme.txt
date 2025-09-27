@@ -18,4 +18,5 @@ Technologies Used:
 
 Screenshots
 - Here's a screenshot of the application in action:
+
 ![ScreenShot](images/demo.png)
