@@ -55,7 +55,6 @@ class IpFinder extends JFrame implements ActionListener {
     
     // Handles the action Event when user  clicks the "Find IP" button.
     // Resolves the domain name entered in the textfield to its corresponding IP address and displays it in the label.
-    // 
     @Override
     public void actionPerformed(ActionEvent e) {
         try {
